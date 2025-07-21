@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# aidt-instrumentation-demo
-=======
 # AI Digital Twin Instrumentation Demo
 
 **2025-08-29**  **-** **2025-08-30** 
@@ -23,4 +20,3 @@ Please list your instructors and mentors below!
 | Time                | Topic                     | Presenter        |
 | :---:               |    :----:                 |    :---:         |
 | 09:00 AM - 09:30 AM | Welcome/Introduction      | Max Grover      |
->>>>>>> ab8d016 (ADD: Add initial files)
