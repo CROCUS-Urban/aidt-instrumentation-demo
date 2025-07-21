@@ -19,7 +19,7 @@ project:
         - file: organizers/survey-template.md
     - title: Projects
       children:
-        - pattern: 'projects/project-*'
+        - pattern: 'projects/*'
 site:
   template: book-theme
   # Modify this section with the logos of your choice
