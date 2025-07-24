@@ -12,17 +12,10 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Organizing Preparation
-      children:
-        - file: organizers/getting-started.md
-        - file: organizers/organizing-checklist.md
-        - file: organizers/survey-template.md
-    - title: Projects
-      children:
-        - pattern: 'projects/*'
+    - file: projects/urban-heat-island-chicago-pandas.ipynb
 site:
   template: book-theme
   # Modify this section with the logos of your choice
   options:
-    favicon: https://hackthehackathon.org/images/logo.png
-    logo: https://hackthehackathon.org/images/logo.png
+    favicon: https://crocus-urban.org/wp-content/uploads/sites/115/2023/03/CROCUS-Logo-1-768x98.png
+    logo: https://crocus-urban.org/wp-content/uploads/sites/115/2023/03/CROCUS-Logo-1-768x98.png
